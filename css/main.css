@@ -1,0 +1,22 @@
+body{
+  background-color:#FFE4C4;
+}
+
+h1, p, a{
+  text-align: center;
+  font-family: 'Cinzel', serif;
+  color: #000000;
+}
+
+.Footer{
+  color: #000000;
+  text-align: center;
+  font-family: 'Cinzel', serif;
+}
+
+/* MAPA */
+.float-right{
+  margin-top: 0px;
+  position: relative;
+  padding: 50px 50px 30px;
+}
